@@ -1,0 +1,7 @@
+-cp src
+-cp test
+-main Run
+
+-lib hxnodejs
+
+-js dist/test.js

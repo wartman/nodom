@@ -1,0 +1,9 @@
+{
+    "classPath": "src",
+    "name": "nodom",
+    "contributors": [ "wartman" ],
+    "dependencies": {},
+    "license": "MIT",
+    "version": "0.0.1",
+    "releasenote": "Initial release"
+}
